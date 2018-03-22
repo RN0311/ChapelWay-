@@ -17,5 +17,5 @@ writeln("Hey, Rashmi and Aishwarya are working.");
 write("Hey, Rashmi and Aishwarya are working."); 
 ```
 
-In Python one has to explicitly cast the input, whereas in Chapel the type of the input is 
+In python one has to explicitly cast the input, whereas in Chapel the type of the input is 
 provided to the read/readln functions directly.
